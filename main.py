@@ -27,7 +27,7 @@ ax = fig.add_subplot()
 fig.show()
 plt.title('Economic Growth')
 plt.xlabel("Iteration")
-plt.ylabel("Objective function")
+plt.ylabel("Growth Percentage")
 A = []
 B = []
 a=2 #adaptive restart
